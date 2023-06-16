@@ -1,1 +1,3 @@
-# python-samples
+# Python-samples
+
+Collection of python Code samples 
